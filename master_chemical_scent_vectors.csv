@@ -1,0 +1,13 @@
+Isolate_ID,Chemical_Name,Formula,OSHA_Category,Net_Dipole_Debyes,α_avg_Å3,Max_Field_Length_Å,Olfactory_Profile,Clinical_Diagnostic_Indication
+TOX-H2S-001,Hydrogen_Sulfide,H2S,IDLH_Hazard,0.97,3.65,3.12,Rotten_eggs,Causes_rapid_olfactory_fatigue_and_lethal_chemical_asphyxiation_at_ceiling_limits
+TOX-NH3-002,Ammonia,NH3,Pulmonary_Irritant,1.47,2.26,2.85,Sharp_pungent,Corrosive_tissue_buffer_forcing_immediate_upper_respiratory_mucosal_burns
+TOX-ACE-003,Acetone,C3H6O,Volatile_Organic,2.88,6.42,4.85,Sweet_fruity,Systemic_ketoalkane_biomarker_for_Diabetic_Ketoacidosis_DKA_tracking
+TOX-HCN-004,Hydrogen_Cyanide,HCN,Blood_Agent,2.98,2.54,2.92,Bitter_almonds,Inhibits_cytochrome_c_oxidase_halting_mitochondrial_ATP_generation
+TOX-COCl-005,Phosgene,COCl2,Choking_Agent,1.17,6.45,4.22,Musty_hay,Delays_pulmonary_edema_by_breaking_down_blood_air_barrier_permittivity
+TOX-AsH-006,Arsine,AsH3,Hemolytic_Gas,0.20,5.42,3.65,Garlic_like,Severe_hemolytic_poison_inducing_erythrocyte_collapse_and_renal_failure
+TOX-CH2O-007,Formaldehyde,CH2O,Carcinogen_STEL,2.33,2.77,3.15,Pickle_pungent,Forces_immediate_claudin_tight_junction_cross_linking_in_exposed_mucosa
+TOX-C6H6-008,Benzene,C6H6,OSHA_Carcinogen,0.00,10.32,5.92,Sweet_aromatic,Symmetric_polyene_cloud_inducing_chronic_bone_marrow_ablation_and_leukemia
+TOX-CH4S-009,Methyl_Mercaptan,CH4S,Warning_Additive,1.52,5.22,3.84,Decaying_cabbage,Leverages_kinetic_drawing_as_an_olfactory_flag_for_methane_leak_detection
+TOX-Cl2-010,Chlorine_Gas,Cl2,Halogen_Irritant,0.00,4.61,3.45,Bleach_pungent,Forms_HCl_and_HOCl_acids_upon_contact_with_wet_mucosal_lattice_structures
+TOX-SKAT-011,Skatole,C9H9N,Trauma_Biomarker,2.05,15.42,7.12,Fecal_decaying,Tracks_advanced_tissue_putrefaction_gangrene_and_bowel_necrosis_states
+TOX-CO-012,Carbon_Monoxide,CO,Chemical_Asphyxiant,0.11,1.95,2.15,Odorless_Tasteless,Lacks_substantial_permanent_dipole_silently_binding_hemoglobin_causing_ischemia
