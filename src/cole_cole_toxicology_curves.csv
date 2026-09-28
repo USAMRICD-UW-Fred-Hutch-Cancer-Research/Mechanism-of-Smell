@@ -1,0 +1,11 @@
+Target_Somatic_Zone,Frequency_Label,Frequency_Value,Relative_Permittivity_Re_eps,Total_Apparent_Conductivity_S_m,Biophysical_State_Context
+Nasal_Mucosa,10_Hz_Baseline,10 Hz,420000.0,0.45,Capacitive_intact_claudin_barrier
+Nasal_Mucosa,1_kHz_Window,1 kHz,51000.0,0.48,Interfacial_polarization_lag
+Nasal_Mucosa,100_kHz_Window,100 kHz,3150.0,0.525,Membrane_insulation_falloff
+Nasal_Mucosa,10_MHz_Window,10 MHz,188.0,0.612,Electrolyte_mobility_shift
+Nasal_Mucosa,2.45_GHz_Target,2.45 GHz,39.64,3.04,Free_water_dipole_rotation
+Lung_Tissue,10_Hz_Baseline,10 Hz,120000.0,0.032,Alveolar_capillary_polarization
+Lung_Tissue,1_kHz_Window,1 kHz,19000.0,0.041,Air_infiltrated_matrix_lag
+Lung_Tissue,100_kHz_Window,100 kHz,1120.0,0.068,Low_water_fraction_falloff
+Lung_Tissue,10_MHz_Window,10 MHz,64.5,0.114,Plasma_boundary_leak_detection
+Lung_Tissue,2.45_GHz_Target,2.45 GHz,20.5,0.78,High_air_volume_fraction_limit
