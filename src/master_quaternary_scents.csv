@@ -1,0 +1,13 @@
+Isolate_ID,Chemical_Name,Formula,Max_Field_Length_Å,Avg_Polarizability_Å3,Net_Dipole_Debyes,Binary_Layout,Quaternary_Digit,Target_Glomerulus,Clinical_Diagnostic_Indication
+TOX-CO-001,Carbon_Monoxide,CO,2.15,1.95,0.11,00,Base-0,Glomerulus_Or-CO_Null,Odorless_asphyxiant_silently_binds_hemoglobin_causing_severe_tissue_ischemia
+TOX-NH3-002,Ammonia,NH3,2.85,2.26,1.47,00,Base-0,Glomerulus_Or-NH3_Acid,PEL_50_ppm_High_mucosal_buffer_affinity_forcing_immediate_respiratory_burns
+TOX-H2S-003,Hydrogen_Sulfide,H2S,3.12,3.65,0.97,00,Base-0,Glomerulus_Or51m1_S,OSHA_Ceiling_20_ppm_Induces_rapid_olfactory_fatigue_and_lethal_asphyxiation
+TOX-Cl2-004,Chlorine_Gas,Cl2,3.45,4.61,0.00,01,Base-1,Glomerulus_Or-Cl2_Hal,Forms_corrosive_HCl_and_HOCl_mineral_acids_on_wet_mucosal_permittivity_lattices
+TOX-HCN-005,Hydrogen_Cyanide,HCN,2.92,2.54,2.98,00,Base-0,Glomerulus_Or-HCN_Met,Bitter_almonds_Inhibits_cytochrome_c_oxidase_halting_mitochondrial_ATP_production
+TOX-CH2O-006,Formaldehyde,CH2O,3.15,2.77,2.33,00,Base-0,Glomerulus_Or-CH2O_Fix,STEL_2_ppm_Cross_links_tight_junction_claudins_collapsing_membrane_permittivity
+TOX-AsH-007,Arsine,AsH3,3.65,5.42,0.20,11,Base-3,Glomerulus_Or-AsH3_Garl,Garlic_profile_Induces_massive_erythrocyte_membrane_collapse_and_renal_failure
+TOX-COCl-008,Phosgene,COCl2,4.22,6.45,1.17,11,Base-3,Glomerulus_Or-COCl2_Hay,Musty_hay_Delays_severe_pulmonary_edema_by_breaking_blood_air_barrier_bounds
+TOX-ACE-009,Acetone,C3H6O,4.85,6.42,2.88,11,Base-3,Glomerulus_Or-DKA_Ket,Sweet_fruity_Critical_metabolic_biomarker_for_Diabetic_Ketoacidosis_DKA_tracking
+TOX-CH4S-010,Methyl_Mercaptan,CH4S,3.84,5.22,1.52,11,Base-3,Glomerulus_Or52e4_Merc,Decaying_cabbage_Added_to_odorless_methane_to_provide_a_kinetic_drawing_leak_flag
+TOX-C6H6-011,Benzene,C6H6,5.92,10.32,0.00,11,Base-3,Glomerulus_Or-C6H6_Arom,PEL_1_ppm_Symmetric_polyene_cloud_inducing_chronic_bone_marrow_ablation
+TOX-SKAT-012,Skatole,C9H9N,7.12,15.42,2.05,11,Base-3,Glomerulus_Or1a1_Putr,Fecal_foul_Tracks_advanced_gangrene_tissue_putrefaction_and_bowel_necrosis_states
