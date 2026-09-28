@@ -1,0 +1,5 @@
+Isolate_ID,Odorant_Matrix,Chemical_Class,Molecular_Weight_gmol,Net_Dipole_Debyes,μ_x_Debyes,μ_y_Debyes,μ_z_Debyes,α_avg_Å3,α_xx_Å3,α_yy_Å3,α_zz_Å3,Max_Field_Length_Å,Primary_Olfactory_Bulb_Glomerulus,Biophysical_Role
+VOL-LIMO-001,D_Limonene,Monoterpene,136.24,0.32,0.22,0.18,0.14,16.45,18.90,15.22,15.23,6.85,Glomerulus_Or51m1,Conjugated_pi_cloud_undergoes_induced_polarization_in_high_permittivity_nasal_mucus
+VOL-PINE-002,Beta_Pinene,Monoterpene,136.24,0.38,0.28,0.21,0.17,16.12,17.40,16.10,14.86,6.42,Glomerulus_Or2w1,Bicyclic_ring_rigidity_restricts_tensor_fluctuations_enabling_sharp_geometric_GPCR_latching
+VOL-MYRI-003,Myristicin_Isolate,Allylbenzene,192.21,2.82,2.45,0.98,0.74,21.84,26.15,20.40,18.97,8.24,Glomerulus_Or1a1,Asymmetric_dioxolane_ring_generates_intense_permanent_longitudinal_dipole_for_long_range_kinetic_draw
+VOL-SYN-004,Synthetic_Odorant_Model,Nitro_Musk,257.29,4.12,3.85,1.24,0.85,28.92,34.50,27.12,25.14,10.15,Glomerulus_Or52e4,Extreme_charge_separation_induces_high_torque_forces_causing_rapid_intracellular_cAMP_cascades
